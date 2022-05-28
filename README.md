@@ -1,16 +1,21 @@
-### Hi there 👋
+[P0werJoint@archlinux ~]$ neofetch
 
-<!--
-**P0werJoint/P0werJoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                    -@                    P0werJoint@archlinux
+                   .##@                   -----------------
+                  .####@                  Username: P0werJoint
+                  @#####@                 Alias: POwer, Joint
+                . *######@                Discord: !𝖕𝖔𝖜𝖊𝖗#5663
+               .##@o@#####@               
+              /############@            
+             /##############@             P0werJoint@archlinux
+            @######@**%######@            -----------------
+           @######`     %#####o           Frontend: 8/10
+          @######@       ######%          Backend: 6/1O
+        -@#######h       ######@.`        PHP: 3/10
+       /#####h**``       `**%@####@       CSharp: 6/10
+      @H@*`                    `*%#@    
+     *`                            `*     Infos: Likes to Ctrl + c & Ctrl + v ...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=P0werJoint&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D">
+</p>

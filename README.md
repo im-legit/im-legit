@@ -1,10 +1,10 @@
 [P0werJoint@archlinux ~]$ neofetch
 
-                    -@                    P0werJoint@archlinux
+                    -@                    P0j@archlinux
                    .##@                   -----------------
                   .####@                  Username: P0werJoint
-                  @#####@                 Alias: POwer, Joint
-                . *######@                Discord: !𝖕𝖔𝖜𝖊𝖗#3997
+                  @#####@                 Discord: !𝖕𝖔𝖜𝖊𝖗#3997
+                . *######@                
                .##@o@#####@               
               /############@            
              /##############@             

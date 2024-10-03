@@ -7,8 +7,7 @@
                 ||     || 		| || | | | | |         | ||  __/| (_| || || |_ 
 					|_||_| |_| |_|         |_| \___| \__, ||_| \__| .com [im-legit.com](https://im-legit.com/)
 									  __/ |        
-									 |___/         
-     
+       								         |___/         
 Discord: pxwg
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=im-legit&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D">
